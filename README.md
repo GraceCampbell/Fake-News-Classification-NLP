@@ -22,19 +22,20 @@ There are two subreddits I am interested in: /r/News and /r/TheOnion. The first 
     
 ## Data Exploration
 
-![image](materials/data)
+![image](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/materials/data.png)
 
-After scraping Reddit's API for the subreddits in question, I created a table of each title with its class. In this case, 1 = /r/TheOnion, and  0 = /r/News.
+After scraping Reddit's API for the subreddits in question, I created a table of each title with its class. In this case, 
+1 = /r/TheOnion, and  0 = /r/News.
 
-![image](materials/fig1)
-![image](materials/fig2)
-![image](materials/table)
+![image](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/materials/fig1.png)
+![image](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/materials/fig2.png)
+![image](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/materials/table.png)
 
 ## Modeling
 
 I chose to use Naive Bayes, $k$-Nearest Neighbors, and Support-Vector Machines to model this problem.
 
-![image](materials/metrics)
+![image](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/materials/metrics.png)
 
 Naive Bayes and SVM both had high accuracy, sensitivity, and specificity, while $k$-Nearest Neighbors had high accuracy and high sensitivity, but low specificity. In a real-world application, it is equally important to me that this model be able to correctly predict when a post is satirical and when it is real. The positive class in this case (/r/TheOnion) does not hold more weight than the negative class (/r/News), so I would rather the model be very accurate than very sensitive or specific.
 
