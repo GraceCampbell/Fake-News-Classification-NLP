@@ -24,8 +24,8 @@ There are two subreddits I am interested in: /r/News and /r/TheOnion. The first 
 
 ![image](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/materials/data.PNG)
 
-After scraping Reddit's API for the subreddits in question, I created a table of each title with its class. In this case, 
-1 = /r/TheOnion, and  0 = /r/News.
+After scraping Reddit's API for the subreddits in question, I created a table of each title with its class. 
+In this case, 1 = /r/TheOnion, and  0 = /r/News.
 
 ![image](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/materials/fig1.png)
 ![image](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/materials/fig2.png)
