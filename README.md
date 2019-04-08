@@ -26,8 +26,11 @@ After scraping Reddit's API for the subreddits in question, I created a table of
 
 In this case, 1 = /r/TheOnion, and  0 = /r/News.
 ![image](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/materials/data.PNG)
+___
 ![image](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/materials/fig1.png)
+___
 ![image](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/materials/fig2.png)
+___
 ![image](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/materials/table.PNG)
 
 ## Modeling
