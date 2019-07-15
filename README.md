@@ -15,7 +15,7 @@ There are two subreddits I am interested in: /r/News and /r/TheOnion. The first 
     - [Exploratory Data Analysis](http://localhost:8889/notebooks/projects/project_3/exploratory-data-analysis.ipynb)
 2. Modeling
     - [Naive Bayes](http://localhost:8889/notebooks/projects/project_3/modeling-naive-bayes.ipynb)
-    - [$k$-Nearest Neighbors](http://localhost:8889/notebooks/projects/project_3/modeling-knn.ipynb)
+    - [*k*-Nearest Neighbors](http://localhost:8889/notebooks/projects/project_3/modeling-knn.ipynb)
     - [Support-Vector Machine](http://localhost:8889/notebooks/projects/project_3/modeling-svm.ipynb)
     - [Final Testing on New Data](http://localhost:8889/notebooks/projects/project_3/final-models-testing.ipynb)
     
