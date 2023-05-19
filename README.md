@@ -11,13 +11,13 @@ There are two subreddits I am interested in: /r/News and /r/TheOnion. The first 
 
 #### Project Directory
 1. Data Preparation 
-    - [Data Gathering](http://localhost:8889/notebooks/projects/project_3/data-gathering.ipynb)
-    - [Exploratory Data Analysis](http://localhost:8889/notebooks/projects/project_3/exploratory-data-analysis.ipynb)
+    - [Data Gathering](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/data-gathering.ipynb)
+    - [Exploratory Data Analysis](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/exploratory-data-analysis.ipynb)
 2. Modeling
-    - [Naive Bayes](http://localhost:8889/notebooks/projects/project_3/modeling-naive-bayes.ipynb)
-    - [*k*-Nearest Neighbors](http://localhost:8889/notebooks/projects/project_3/modeling-knn.ipynb)
-    - [Support-Vector Machine](http://localhost:8889/notebooks/projects/project_3/modeling-svm.ipynb)
-    - [Final Testing on New Data](http://localhost:8889/notebooks/projects/project_3/final-models-testing.ipynb)
+    - [Naive Bayes](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/modeling-naive-bayes.ipynb)
+    - [*k*-Nearest Neighbors](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/modeling-knn.ipynb)
+    - [Support-Vector Machine](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/modeling-svm.ipynb)
+    - [Final Testing on New Data](https://github.com/GraceCampbell/Fake-News-Classification-NLP/blob/master/final-models-testing.ipynb)
     
     
 ## Data Exploration
